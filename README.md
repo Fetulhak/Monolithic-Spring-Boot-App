@@ -41,4 +41,4 @@ This quiz app is designed as a monolithic application, with components such as *
 - **Java**
 - **Spring Boot**
 - **Spring Data JPA**
-- **MYSQL Database** 
+- **Postgres Database** 
